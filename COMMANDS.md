@@ -123,14 +123,14 @@ Param(s):
 
 Option(s):
 
-```
+````
 :type repo_desc: str
 :param repo_desc: The repo description (optional).
 
 :type private: bool
 :param private: Determines whether the repo is private.
     Default: False.
-```
+````
 
 Example(s):
 
